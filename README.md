@@ -1,2 +1,2 @@
 # InMoov_italia
-I miei sviluppi sulla versione InMoov in italiano
+I miei sviluppi sulla versione MRL per InMoov in italiano
